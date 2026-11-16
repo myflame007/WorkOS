@@ -4,5 +4,6 @@
     "custom-tweaks",
     "vicious-custom"
   ],
-  "translucency": true
+  "translucency": true,
+  "showRibbon": true
 }
